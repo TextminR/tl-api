@@ -1,0 +1,6 @@
+typing_extensions
+fastapi
+uvicorn
+transformers
+optimum[onnxruntime]
+filelock
